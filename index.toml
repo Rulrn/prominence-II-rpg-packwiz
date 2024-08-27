@@ -2767,6 +2767,11 @@ hash = "5408f2e2dc93c0ad15ceee15bd6370e1ad052887df7ef1a6c8188fd1a049b3d1"
 metafile = true
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "f449842855816a364764dc02317099b4e8164b068b185bf0194c8fb638b57d6d"
 metafile = true
@@ -2857,8 +2862,8 @@ hash = "fca19850754fee8232175c994a7d08fac2247f599c1efd84dabd1e09e80d5ac0"
 metafile = true
 
 [[files]]
-file = "mods/aquamirae-fabric.pw.toml"
-hash = "6f9b8e80b39e9c37e75d4bdbe59177696f8ea82f24b335922d88e16523ce1713"
+file = "mods/aquamirae.pw.toml"
+hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
 
 [[files]]
@@ -3378,7 +3383,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "949bd1d3a79e15a089db4ade5d63edacf53b71e1ac7978826b154f59aadf077f"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
 
 [[files]]
@@ -3508,7 +3513,7 @@ metafile = true
 
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
-hash = "e67d70465ae05ffdf56bb6b926706fffd5762fc96771de709c2eca2c6b9898d7"
+hash = "39c1afc36757701b7109d9c8a8fd65f7edbdbaddd31452e9fbb438d93972bcbc"
 metafile = true
 
 [[files]]
@@ -4006,7 +4011,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f13cd411d017440ee22407cc05866276c8ff31a6b163df07d12168bd95619bdb"
+hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
@@ -4015,8 +4020,8 @@ hash = "92420a8464f7da1f0b558bff33b1a0e7924acd0a4b72735c6ec6fd7a5495c0d0"
 metafile = true
 
 [[files]]
-file = "mods/obscure-api-fabric.pw.toml"
-hash = "d5d931c076d4b9b6ffe7f7a4d1e6135ff4f5f26e34ba53fd5110ea8e83c3375d"
+file = "mods/obscure-api.pw.toml"
+hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
 
 [[files]]
@@ -4320,11 +4325,6 @@ hash = "8395601ad786ac31ba176b248f86a4fac1e8d21175e32b9b91e884b27c3ebe16"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "c7779da4fc55cd62dd3941717e857458b38c0fbbfc0221b6f265c8c6a7498cb6"
-metafile = true
-
-[[files]]
 file = "mods/sky-villages-fabric.pw.toml"
 hash = "c1c40e96898079d81f628d9b7b1746618a3daad842d51be9ef42882b88a65a44"
 metafile = true
@@ -4346,7 +4346,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "03120897f0dd10a4139a0a36aa0cfe854346be72d056fa9f42a7019098820576"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
@@ -4709,7 +4709,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "e03c12166d1fc1b317475252b098e97fae551f167087611c2b5cda51fef2e863"
+hash = "9d8e5ae8b2d8dc7fa45c59287243a58cae06760fbec8bec53b7c74ad7a35163f"
 metafile = true
 
 [[files]]
@@ -4754,7 +4754,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "7b51ee3a3ef932c8033961d23389a2e435b110463693e66e48608a2686682240"
+hash = "3d2e99c61b979a237f739ae79440f8fa4880273692d3118e37e229b2144e076f"
 metafile = true
 
 [[files]]
