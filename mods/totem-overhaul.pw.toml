@@ -1,0 +1,13 @@
+name = "Totem Overhaul"
+filename = "Prominent_Talents-FABRIC-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3af5f3cf418d5ce3966e5b2eb036866ac869467b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4912582
+project-id = 584964

@@ -1,0 +1,13 @@
+name = "Protection Balancer"
+filename = "ProtectionBalancer-FABRIC-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4800691d7c321fe59ee9a2c8fb8420cbdf71d77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5189653
+project-id = 987781

@@ -1,0 +1,13 @@
+name = "Transmog"
+filename = "transmog-fabric-1.2.4+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a948d42998f35a15523324b40d3b49688979b0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4744282
+project-id = 848032
