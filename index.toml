@@ -3398,7 +3398,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "21c8a791f7322c63ed2cb62531d0428a3371544271fe9629759378413806caf7"
+hash = "791ffca26b004f0dc1302b6605b90bf3ea27f22ba8c608ace1a712e2f867fb7b"
 metafile = true
 
 [[files]]
@@ -4840,3 +4840,7 @@ metafile = true
 [[files]]
 file = "shaderpacks/VanillAA.zip"
 hash = "08367cca75dfbeec43b4017db27950bd8f195dbb2df1d1bdc88d8c1c3ec8e75f"
+
+[[files]]
+file = "shell.nix"
+hash = "7530fc132321ce06c070e6a7577820f42d8fc5225f2da626427bfeb3ef872870"
