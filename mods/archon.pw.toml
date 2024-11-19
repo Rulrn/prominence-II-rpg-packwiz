@@ -1,13 +1,13 @@
 name = "Archon"
-filename = "archon-0.7.4.jar"
+filename = "archon-0.7.41.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/td9zQQBq/versions/hHFyWODe/archon-0.7.4.jar"
+url = "https://cdn.modrinth.com/data/td9zQQBq/versions/QHdOQAND/archon-0.7.41.jar"
 hash-format = "sha1"
-hash = "afcf7482bc6518fb95c5683109b98f5edf56d011"
+hash = "95f37bc9136163248da8941b2ec1a1b57d0ef047"
 
 [update]
 [update.modrinth]
 mod-id = "td9zQQBq"
-version = "hHFyWODe"
+version = "QHdOQAND"

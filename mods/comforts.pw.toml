@@ -1,13 +1,13 @@
 name = "Comforts"
-filename = "comforts-fabric-6.3.4+1.20.1.jar"
+filename = "comforts-fabric-6.4.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SaCpeal4/versions/XARWuNYu/comforts-fabric-6.3.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "3d5eda5cd9aa9a5a86b14bce6b7493939d135e16"
+hash = "96c1b52fa6dcff140b56e17ce980d2a5c528fad2"
 
 [update]
 [update.modrinth]
 mod-id = "SaCpeal4"
-version = "XARWuNYu"
+version = "pMr60Kkq"

@@ -1,13 +1,13 @@
 name = "Ashen + Visuality Support"
-filename = "Ashen_Visuality_Support_1.0.zip"
+filename = "Ashen_Visuality_Support_1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ARf3yR3v/versions/2aPuIMTG/Ashen_Visuality_Support_1.0.zip"
+url = "https://cdn.modrinth.com/data/ARf3yR3v/versions/DzjuPdiL/Ashen_Visuality_Support_1.1.zip"
 hash-format = "sha1"
-hash = "971ab07689bb96ad8e3ac5d9b00ebaf549790732"
+hash = "c936e15570f23ad242efe37f019ef992a873409e"
 
 [update]
 [update.modrinth]
 mod-id = "ARf3yR3v"
-version = "2aPuIMTG"
+version = "DzjuPdiL"

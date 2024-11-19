@@ -1,13 +1,13 @@
 name = "Fast Paintings"
-filename = "fastpaintings-1.20-1.2.4-fabric.jar"
+filename = "adv_nuker-1.20-1.4-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/z3TzcquW/versions/VDxVjIhU/fastpaintings-1.20-1.2.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/z3TzcquW/versions/fo08kOAn/adv_nuker-1.20-1.4-fabric.jar"
 hash-format = "sha1"
-hash = "34e4c0c7b656ce073335e4037c8ae81cf113e8d1"
+hash = "80c1bdee1d95a4456565f022798ec1bacf8f8dd8"
 
 [update]
 [update.modrinth]
 mod-id = "z3TzcquW"
-version = "VDxVjIhU"
+version = "fo08kOAn"
