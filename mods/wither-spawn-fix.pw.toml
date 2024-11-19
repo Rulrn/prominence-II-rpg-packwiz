@@ -1,0 +1,13 @@
+name = "Wither Spawn Fix"
+filename = "wither_spawn_fix-MC1.20.1-1.0.0(1).jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KseM6VIg/versions/xEFCYq5M/wither_spawn_fix-MC1.20.1-1.0.0%281%29.jar"
+hash-format = "sha1"
+hash = "91f6272c914b3b69f14080749a7f6b88ee6e9af7"
+
+[update]
+[update.modrinth]
+mod-id = "KseM6VIg"
+version = "xEFCYq5M"

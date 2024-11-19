@@ -1,0 +1,13 @@
+name = "Death Knights (RPG Series)"
+filename = "Death_Knights-0.6.0beta+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2EQER1gD/versions/no5MLpnI/Death_Knights-0.6.0beta%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "2fc7cb98e9752cfeb7532dfb112decea22ba4c53"
+
+[update]
+[update.modrinth]
+mod-id = "2EQER1gD"
+version = "no5MLpnI"

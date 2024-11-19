@@ -3,11 +3,11 @@ filename = "PigPen-Fabric-1.20.1-15.0.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/2xZPITh8/versions/lhfkHQku/PigPen-Fabric-1.20.1-15.0.2.jar"
 hash-format = "sha1"
 hash = "81f7499a910f3e9e644687afdf6aa8dcafec6ae9"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4714774
-project-id = 396234
+[update.modrinth]
+mod-id = "2xZPITh8"
+version = "lhfkHQku"

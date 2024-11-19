@@ -1,13 +1,13 @@
 name = "Mythic Upgrades"
-filename = "mythicupgrades-4.2.0+mc1.20.1.jar"
+filename = "mythicupgrades-2.3.2+mc1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ERH7cFoy/versions/6zxDjwBl/mythicupgrades-2.3.2%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "20977e8848b8920e6559c2d5af588594bd593b04"
-mode = "metadata:curseforge"
+hash = "8959dd75f24aa02a3ed5042d0275c212b0dc43e3"
 
 [update]
-[update.curseforge]
-file-id = 5700925
-project-id = 663567
+[update.modrinth]
+mod-id = "ERH7cFoy"
+version = "6zxDjwBl"

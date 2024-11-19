@@ -1,0 +1,13 @@
+name = "Resistance Balancer"
+filename = "ResistanceBalancer-FABRIC-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cC1LNyTQ/versions/MuXI0rXe/ResistanceBalancer-FABRIC-1.0.0.jar"
+hash-format = "sha1"
+hash = "9e8ffc636e5579517b0ae604a7a4f686aa2e5e48"
+
+[update]
+[update.modrinth]
+mod-id = "cC1LNyTQ"
+version = "MuXI0rXe"

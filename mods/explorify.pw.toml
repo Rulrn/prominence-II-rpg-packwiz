@@ -1,13 +1,13 @@
-name = "Explorify – Dungeons & Structures"
-filename = "Explorify v1.6.2 f10-48.jar"
+name = "Explorify"
+filename = "explorify-v1.3.0-mc1.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/DFkIejTe/explorify-v1.3.0-mc1.20.jar"
 hash-format = "sha1"
-hash = "f04907ed21f6239f90031cfe1d79b43e3ef76cb9"
-mode = "metadata:curseforge"
+hash = "01b221413273cdf373a92499b8f0295dec1cd324"
 
 [update]
-[update.curseforge]
-file-id = 5722938
-project-id = 698309
+[update.modrinth]
+mod-id = "HSfsxuTo"
+version = "DFkIejTe"

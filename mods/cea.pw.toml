@@ -1,0 +1,13 @@
+name = "Custom Entity Attributes (CEA)"
+filename = "CustomEntityAttributes-FABRIC-1.20.X-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HrX8DMup/versions/KxenaBoI/CustomEntityAttributes-FABRIC-1.20.X-1.0.0.jar"
+hash-format = "sha1"
+hash = "75a2dc687022b0417f6b00642723c67bc16104c5"
+
+[update]
+[update.modrinth]
+mod-id = "HrX8DMup"
+version = "KxenaBoI"

@@ -1,0 +1,13 @@
+name = "Ashen + Eating Animation Support"
+filename = "Ashen_Eating_Animation_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/shhv3Jy5/versions/7Pdry7jo/Ashen_Eating_Animation_Support_1.0.zip"
+hash-format = "sha1"
+hash = "28f86fc1f4c7c8377d9719b916f4d8cba1ab379d"
+
+[update]
+[update.modrinth]
+mod-id = "shhv3Jy5"
+version = "7Pdry7jo"

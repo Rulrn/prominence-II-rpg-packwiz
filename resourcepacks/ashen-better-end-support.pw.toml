@@ -1,0 +1,13 @@
+name = "Ashen + Better End Support"
+filename = "Ashen_Better_End_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ur1ZuVtB/versions/qf7hhltG/Ashen_Better_End_Support_1.0.zip"
+hash-format = "sha1"
+hash = "fc75c2f21e0c6f457ac97916b8e8d81efacde702"
+
+[update]
+[update.modrinth]
+mod-id = "ur1ZuVtB"
+version = "qf7hhltG"

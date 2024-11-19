@@ -1,0 +1,13 @@
+name = "AsteorBar"
+filename = "asteorbar-fabric-1.20.1-1.4.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QMWG8bVO/versions/kQWsegZt/asteorbar-fabric-1.20.1-1.4.6.jar"
+hash-format = "sha1"
+hash = "bf0f667ec781827e54ad22e23365bc9dee26533e"
+
+[update]
+[update.modrinth]
+mod-id = "QMWG8bVO"
+version = "kQWsegZt"

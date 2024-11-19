@@ -1,0 +1,13 @@
+name = "Ashen 16x"
+filename = "Ashen_1.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LSmohupN/versions/U0FvHmPv/Ashen_1.8.zip"
+hash-format = "sha1"
+hash = "b3a9ca3c77daaa3074ea292732b3dda480acc225"
+
+[update]
+[update.modrinth]
+mod-id = "LSmohupN"
+version = "U0FvHmPv"

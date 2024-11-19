@@ -1,0 +1,13 @@
+name = "Ashen + Advanced Netherite Support"
+filename = "Ashen_Advanced_Netherite_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MnivJnH2/versions/DHd7izzX/Ashen_Advanced_Netherite_Support_1.0.zip"
+hash-format = "sha1"
+hash = "e2b21aa7f5dad3e2a1f0da59e597cf159aa83a53"
+
+[update]
+[update.modrinth]
+mod-id = "MnivJnH2"
+version = "DHd7izzX"

@@ -1,0 +1,13 @@
+name = "Ashen Simple Foliage"
+filename = "Ashen_Simple_Foliage.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mddj0vpG/versions/nOaHlTzr/Ashen_Simple_Foliage.zip"
+hash-format = "sha1"
+hash = "9cf0ee43413186290a056cc130f3a778bd4c665d"
+
+[update]
+[update.modrinth]
+mod-id = "Mddj0vpG"
+version = "nOaHlTzr"

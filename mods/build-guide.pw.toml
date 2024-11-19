@@ -1,13 +1,13 @@
 name = "Build Guide"
-filename = "BuildGuide-1.20-0.4.3.jar"
-side = "both"
+filename = "BuildGuide-1.20-0.4.0.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/XwBDibES/versions/10NmWxeV/BuildGuide-1.20-0.4.0.jar"
 hash-format = "sha1"
-hash = "0f74d16e0e54e47ac31f6e53e4b0a5b280455cef"
-mode = "metadata:curseforge"
+hash = "9df8fc3433a864c89908d4a31d0acf3e68100c83"
 
 [update]
-[update.curseforge]
-file-id = 5687152
-project-id = 465690
+[update.modrinth]
+mod-id = "XwBDibES"
+version = "10NmWxeV"

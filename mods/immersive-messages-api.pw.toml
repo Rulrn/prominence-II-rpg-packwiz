@@ -1,0 +1,13 @@
+name = "Immersive Messages API"
+filename = "immersivemessages-fabric-1.0.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xvrmbjn/versions/zaRwzQzL/immersivemessages-fabric-1.0.6-1.20.1.jar"
+hash-format = "sha1"
+hash = "52cbf0a270e16272f4a411613d45b185968c7501"
+
+[update]
+[update.modrinth]
+mod-id = "6xvrmbjn"
+version = "zaRwzQzL"

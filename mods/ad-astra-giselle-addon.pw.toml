@@ -1,13 +1,13 @@
-name = "Ad Astra: Giselle Addon"
-filename = "Ad-Astra-Giselle-Addon-fabric-1.20.1-6.15.jar"
+name = "Ad-Astra: Giselle Addon"
+filename = "Ad-Astra-Giselle-Addon-fabric-1.20.1-5.6.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/XQDxCBVw/versions/TTQbGirj/Ad-Astra-Giselle-Addon-fabric-1.20.1-5.6.jar"
 hash-format = "sha1"
-hash = "49fcad26cb3872690f02b6fd3bf344ce8667f8f4"
-mode = "metadata:curseforge"
+hash = "3f5f4c4061035eae29cedf7578c3fe69a9dcd028"
 
 [update]
-[update.curseforge]
-file-id = 5746049
-project-id = 714958
+[update.modrinth]
+mod-id = "XQDxCBVw"
+version = "TTQbGirj"

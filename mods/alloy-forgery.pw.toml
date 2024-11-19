@@ -1,13 +1,13 @@
 name = "Alloy Forgery"
-filename = "alloy-forgery-2.1.2+1.20.jar"
+filename = "alloy-forgery-2.1.1+1.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jhl28YkY/versions/EnaZWOD3/alloy-forgery-2.1.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "2a5b1cdd7dacaba4012c0a3d116d726302f62dca"
-mode = "metadata:curseforge"
+hash = "ef613b94220bbc14eb9c2a6c3755782e2a790d5e"
 
 [update]
-[update.curseforge]
-file-id = 4944647
-project-id = 438718
+[update.modrinth]
+mod-id = "jhl28YkY"
+version = "EnaZWOD3"

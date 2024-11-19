@@ -3,11 +3,11 @@ filename = "fakerlib-0.1.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ORX9fPw1/versions/7pRFET6N/fakerlib-0.1.4.jar"
 hash-format = "sha1"
 hash = "45b2283e6ec44f32f93024e0f54a65f756217566"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5503724
-project-id = 853197
+[update.modrinth]
+mod-id = "ORX9fPw1"
+version = "7pRFET6N"

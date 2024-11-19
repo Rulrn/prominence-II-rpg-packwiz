@@ -1,13 +1,13 @@
 name = "Protection Balancer"
 filename = "ProtectionBalancer-FABRIC-1.2.0.jar"
-side = "both"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/Udc4ShgP/versions/c27ayXiW/ProtectionBalancer-FABRIC-1.2.0.jar"
 hash-format = "sha1"
 hash = "084133366c035ab070e2baf7f34ea1839d530f08"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5648739
-project-id = 987781
+[update.modrinth]
+mod-id = "Udc4ShgP"
+version = "c27ayXiW"

@@ -1,13 +1,13 @@
 name = "Quartz Elevator"
-filename = "quartz-elevator-2.2.7+1.20.4.jar"
+filename = "quartz-elevator-2.2.5+1.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/O9C0qdu8/versions/LMM8v3v2/quartz-elevator-2.2.5%2B1.20.jar"
 hash-format = "sha1"
-hash = "ef93268eb8caaebddaa4bcdc616c378a79636242"
-mode = "metadata:curseforge"
+hash = "b1c16d40d0efde205dcc69ac3b9c369a57d9d745"
 
 [update]
-[update.curseforge]
-file-id = 5312088
-project-id = 442509
+[update.modrinth]
+mod-id = "O9C0qdu8"
+version = "LMM8v3v2"

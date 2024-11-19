@@ -1,0 +1,13 @@
+name = "AAA Particles"
+filename = "aaa_particles-1.20.1-1.4.7-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/En8uHTOK/versions/8QXSm2Kh/aaa_particles-1.20.1-1.4.7-fabric.jar"
+hash-format = "sha1"
+hash = "11db12648327a389197867607c134f0c8ca4d057"
+
+[update]
+[update.modrinth]
+mod-id = "En8uHTOK"
+version = "8QXSm2Kh"

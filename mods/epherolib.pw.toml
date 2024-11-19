@@ -3,11 +3,11 @@ filename = "EpheroLib-1.20.1-FABRIC-1.2.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/DIIgdJzf/versions/ZmhVIn61/EpheroLib-1.20.1-FABRIC-1.2.0.jar"
 hash-format = "sha1"
-hash = "5a54bffb127857fe0d62a8708c5789db49ad71fd"
-mode = "metadata:curseforge"
+hash = "3e7ffd8a8cbc305176028889e165f696f163dbbd"
 
 [update]
-[update.curseforge]
-file-id = 4949797
-project-id = 885449
+[update.modrinth]
+mod-id = "DIIgdJzf"
+version = "ZmhVIn61"

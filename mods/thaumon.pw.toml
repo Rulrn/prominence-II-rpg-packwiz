@@ -1,13 +1,13 @@
 name = "Thaumon"
-filename = "thaumon-fabric-2.3.0+1.20.1.jar"
+filename = "thaumon-fabric-2.2.0+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/PvssKrgi/versions/ll7thiN5/thaumon-fabric-2.2.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "4160788cce0b4febd49d6699455dd4e2e8deaa88"
-mode = "metadata:curseforge"
+hash = "d520335da855edccb5e371fd4f0a12b1513fc379"
 
 [update]
-[update.curseforge]
-file-id = 5492066
-project-id = 926511
+[update.modrinth]
+mod-id = "PvssKrgi"
+version = "ll7thiN5"
