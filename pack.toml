@@ -1,13 +1,12 @@
 name = "Prominence II Rpg Packwiz"
-author = "Rulrn"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "aa489cf8ec32ae1385cfa163cbb8fd661c077375bf5d1d475eac072b758f5143"
+hash = "498a4e9e6337e4e1241bd7da97ef00cadf9e868a6f71faab793a983f4cafd0ef"
 
 [versions]
-fabric = "0.16.2"
+fabric = "0.16.9"
 minecraft = "1.20.1"

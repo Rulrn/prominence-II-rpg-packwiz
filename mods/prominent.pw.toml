@@ -1,0 +1,13 @@
+name = "Prominent"
+filename = "Prominent-GLOBAL-MC1.20.1-2.1.0hf.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d258b0231264b8a9d6d59c0af951aa0a39464fa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5263663
+project-id = 835867

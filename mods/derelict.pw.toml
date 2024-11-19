@@ -1,13 +1,13 @@
 name = "Mim1q's Derelict"
-filename = "derelict-2.0.0.jar"
+filename = "derelict-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FOY0uIwP/versions/4btSW1Mt/derelict-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/FOY0uIwP/versions/EGejxoq2/derelict-1.1.1.jar"
 hash-format = "sha1"
-hash = "5281a20309d4b80e0afa5984c7042b18d4b69964"
+hash = "42c398824254a1f3b621542ac4b97fcfd8610d11"
 
 [update]
 [update.modrinth]
 mod-id = "FOY0uIwP"
-version = "4btSW1Mt"
+version = "EGejxoq2"
