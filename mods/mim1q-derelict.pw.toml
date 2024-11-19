@@ -1,13 +1,13 @@
 name = "Mim1q's Derelict"
-filename = "derelict-1.0.1.jar"
+filename = "derelict-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2e696773f4401a7c9fa6303182b1ae6f289cbe0f"
+hash = "53eeaa00d81afa8b586769a71afc9ffda30d478e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4837905
+file-id = 5848521
 project-id = 928990

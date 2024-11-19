@@ -1,13 +1,13 @@
-name = "More Armor Trims [FABRIC]"
-filename = "more_armor_trims-fabric-1.20.1-1.1.3.jar"
+name = "More Armor Trims [FABRIC/NEOFORGE]"
+filename = "morearmortrims-1.4.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d1ee73568761e94ed3dec77aa1f4891a5400a445"
+hash = "b4fbc0b69835adf7e268efc4bccb17aeea8daccf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4869453
+file-id = 5881323
 project-id = 876103

@@ -1,13 +1,13 @@
 name = "Mandala's GUI - Dark mode"
-filename = "MandalasGUI_Legacy+Modded_Dakmode_v4.5.zip"
+filename = "MandalasGUI_Dakmode_Vanilla1.20.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/h6zxsNVF/versions/RgbVqME6/MandalasGUI_Legacy%2BModded_Dakmode_v4.5.zip"
+url = "https://cdn.modrinth.com/data/h6zxsNVF/versions/kJrX5B4S/MandalasGUI_Dakmode_Vanilla1.20.4.zip"
 hash-format = "sha1"
-hash = "67ce50546047b51d726dbab6eb21d1837ba520b2"
+hash = "6889dd064c3dc449b7d610db3948a588f23fe792"
 
 [update]
 [update.modrinth]
 mod-id = "h6zxsNVF"
-version = "RgbVqME6"
+version = "kJrX5B4S"

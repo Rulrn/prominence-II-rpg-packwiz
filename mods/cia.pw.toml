@@ -1,13 +1,13 @@
 name = "Custom Item Attributes (CIA)"
-filename = "CIA-1.1.0-Fabric-MC1.20.1.jar"
+filename = "CustomItemAttributes-FABRIC-1.20.X-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "170b66670c0e936ed57c34cb6d7c50f943fcda38"
+hash = "4e4f970276c1f901f065d377abb4313f4b039633"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5068086
+file-id = 5610924
 project-id = 965954
